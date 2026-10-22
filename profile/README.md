@@ -13,3 +13,4 @@ WEBSSON d.o.o. is a software company in Pula, Croatia. We make two products.
 ## Repositories here
 
 - [python-autograded-assignment](https://github.com/websson/python-autograded-assignment): an example autograded Python assignment (starter code, public and hidden tests, a reference solution) in the layout Uppcoder imports.
+- [java-autograded-assignment](https://github.com/websson/java-autograded-assignment): the same idea in Java, with JUnit 5 tests and a Maven build.
